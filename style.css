@@ -211,7 +211,7 @@ header nav a:hover:after {
 .heroBg {
    position: absolute;
    inset: 0;
-   background: url('assets/images/aakash-workspace.png') 68% 48%/cover no-repeat;
+   background: url('assets/aakash-workspace.png') 68% 48%/cover no-repeat;
    transform: scale(1.02);
    animation: heroZoom 12s ease-in-out infinite alternate
 }
